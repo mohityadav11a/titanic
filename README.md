@@ -1,0 +1,1 @@
+This repository contains exploratory data analysis (EDA) performed on the Titanic dataset. The analysis aims to explore the dataset, understand the characteristics of the passengers onboard, identify patterns, and derive insights from the available data.
